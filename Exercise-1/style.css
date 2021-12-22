@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Netflix Sans';
+    font-weight: 100;
+    font-display: optional;
+    src: url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Th.woff2) format('woff2'),url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Th.woff) format('woff')
+}
+
+
+#header{
+
+    font-size: 50px;
+    text-align: left;
+    color: red;
+    font-family: 'Netflix Sans';
+    font-weight: 100;
+    font-display: optional;
+    src: url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Th.woff2) format('woff2'),url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Th.woff) format('woff')
+
+}
+#header span{
+    font-size: 20px;
+}   
+
+
+h3{
+    background-color: white;
+    border: 1px solid red;
+    text-align: center;
+    color: rgb(229, 9, 2);
+    width: 150px;
+    margin-top: auto;
+    
+}
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+    color: white;
+}
